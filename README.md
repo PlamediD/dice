@@ -1,16 +1,9 @@
 # dice
+This project is part of the course "The Complete Flutter Development Bootcamp with Dart" on Udemy. It implements a simple dice rolling app using Flutter, 
+a UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 
-A new Flutter project.
+In this app, users can roll two dice by tapping on the screen, and the numbers displayed on the dice faces will change randomly. 
+It demonstrates basic Flutter concepts such as stateful widgets, handling user input, and updating the UI dynamically.
 
-## Getting Started
+This project serves as a practical exercise to reinforce the lessons learned in the Flutter development course on Udemy.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
